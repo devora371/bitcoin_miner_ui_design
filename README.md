@@ -4,6 +4,6 @@ C# Windows Form project with lottie gif animation. In this project I have used L
 
 Lottie Animation Files:
 https://lottiefiles.com
-
-![Bitcoin Miner UI Desing](https://github.com/devora371/bitcoin_miner_ui_design/blob/master/miner_ui.png)
+![Employee data](/bitcoin_miner_ui_design/blob/master/miner_ui.png?raw=true "Employee Data title")
+![Bitcoin Miner UI Desing](/bitcoin_miner_ui_design/blob/master/miner_ui.png)
 
